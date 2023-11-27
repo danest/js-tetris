@@ -8,7 +8,7 @@ A simple Tetris game implemented in JavaScript and styled with CSS.
 
 ## Demo
 
-![Tetris Demo]
+[Tetris Demo]
 
 [Play the Demo](#)
 - Clone the repo and open up the index.html
