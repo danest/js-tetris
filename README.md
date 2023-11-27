@@ -2,8 +2,6 @@
 
 A simple Tetris game implemented in JavaScript and styled with CSS.
 
-![Tetris Demo]
-
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
