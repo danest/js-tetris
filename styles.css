@@ -1,0 +1,13 @@
+* {
+  font-family: 'Press Start 2P', cursive;
+}
+
+body {
+  text-align: center;
+}
+
+#my-canvas {
+  background: #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+}
